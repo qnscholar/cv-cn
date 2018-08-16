@@ -32,7 +32,7 @@ sidebar:
 
      # - idiom: Spanish
      #  level: Professional
-        
+
     interests:
       - item: 羽毛球
         link:
@@ -62,7 +62,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: 学士学位，通信工程
       university: 安徽大学 (AHU)
@@ -75,7 +75,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: 研究成员
@@ -83,7 +83,7 @@ experiences:
       company: 浙江大学，杭州
       details: |
         基于LiNbO3单晶薄膜的柔性声表面波（SAW）应变传感器
- 
+
           - 首次提出基于LiNbO3单晶薄膜的柔性SAW应变传感器。
           - 具有3000 ustrain的应变传感范围，和193 Hz/ustrain 的高灵敏度，器件稳定性好。
           - 具有两个振动模式，可实现多参数传感和解耦，及温度补偿。
