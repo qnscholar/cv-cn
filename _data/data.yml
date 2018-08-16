@@ -48,7 +48,7 @@ career-profile:
     summary: |
       浙江大学电子工程学在读博士生，从事微纳电子器件、柔性电子、声表面波传感器研究。
       同时对编程、人工智能、新媒体运营有浓厚兴趣，运营微信公众号“猫Q学术派”，
-      发布个人所学所思所想。
+      记录自己的技术进阶历程。
 
 education:
     - degree: 博士学位，电子科学与技术
@@ -153,6 +153,67 @@ projects:
       - title: <font color="white">2015</font>
         # link: "#"
         tagline: "学习优秀三等奖学金，安徽大学"
+
+      - title: 2014
+        # link: "#"
+        tagline: "优秀学生奖学金，安徽大学"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "学术科技奖学金，安徽大学"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "一等奖，《电磁炮》，安徽省电子设计竞赛"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "三等奖，《火箭发射平台倾角检测装置》，全国航空航天模型大赛科技创意组"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "优秀结题，《基于ARM的宿舍安全监控系统》，大学生创新创业训练项目"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "一等奖，安徽省第二届无线电测向竞赛144 MHz波段"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "团体冠军，安徽省第二届无线电测向竞赛"
+
+      - title: 2013
+        # link: "#"
+        tagline: "学术科技奖学金，安徽大学"
+
+      - title: <font color="white">2013</font>
+        # link: "#"
+        tagline: "国元奖学金，安徽大学"
+
+      - title: <font color="white">2013</font>
+        # link: "#"
+        tagline: "社会实践奖学金，安徽大学"
+
+      - title: <font color="white">2013</font>
+        # link: "#"
+        tagline: "社会实践先进个人，安徽大学"
+
+      - title: <font color="white">2013</font>
+        # link: "#"
+        tagline: "社会实践校级优秀团队，《寻求傩戏在社会改革时期的创新与发展》，安徽大学"
+
+      - title: <font color="white">2013</font>
+        # link: "#"
+        tagline: "二等奖，全国无线电测向竞赛"
+
+      - title: <font color="white">2013</font>
+        # link: "#"
+        tagline: "一等奖，安徽省第一届无线电测向竞赛144 MHz波段"
+
+      - title: <font color="white">2013</font>
+        # link: "#"
+        tagline: "团体冠军，安徽省第一届无线电测向竞赛144 MHZ波段"
+
 
 publications:
     title: Publications
