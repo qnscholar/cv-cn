@@ -51,8 +51,8 @@ career-profile:
       发布个人所学所思所想。
 
 education:
-    - degree: 博士学位（正在攻读），电子科学与技术
-      university: 浙江大学(ZJU)
+    - degree: 博士学位，电子科学与技术
+      university: 浙江大学 (ZJU)
       time: 2016 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -65,7 +65,7 @@ education:
           - Bullet point 
 
     - degree: 学士学位，通信工程
-      university: 安徽大学(AHU)
+      university: 安徽大学 (AHU)
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
