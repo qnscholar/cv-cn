@@ -156,19 +156,19 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Flexible surface acoustic wave strain sensor based on single crystalline LiNbO <sub>3</sub> thin film [J]
+        authors: H.S. Xu, S.R. Dong, W.P. Xuan, et. al.
+        conference: Applied Physics Letters 112.9 (2018): 093502.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Stretchable optical Sensing Patch System Integrated Heart Rate, Pulse Oxygen Saturation and Sweat pH Detection
+        authors: G.M. Wang, H.S. Xu, S.R. Dong
+        conference: submitted
 
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
