@@ -16,15 +16,15 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in honors.assignments %}
+  {% for honor in honors.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        <a href="{{ project.link }}">{{ project.title }}</a>
+      <span class="honor-title">
+        <a href="{{ honor.link }}">{{ honor.title }}</a>
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if honor.tagline %}
+      - <span class="honor-tagline">{{ honor.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
