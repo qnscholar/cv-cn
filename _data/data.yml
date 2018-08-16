@@ -150,7 +150,7 @@ projects:
         # link: "#"
         tagline: "二等奖，全国大学生电子设计竞赛安徽赛区"
 
-      - title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+      - title: <font color="white">2015</font>
         # link: "#"
         tagline: "学习优秀三等奖学金，安徽大学"
 
