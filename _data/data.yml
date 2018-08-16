@@ -164,11 +164,11 @@ publications:
     papers:
       - title: Flexible surface acoustic wave strain sensor based on single crystalline LiNbO <sub>3</sub> thin film [J]
         authors: H.S. Xu, S.R. Dong, W.P. Xuan, et. al.
-        conference: Applied Physics Letters 112.9 (2018): 093502.
+        conference: "Applied Physics Letters 112.9 (2018): 093502."
 
       - title: Stretchable optical Sensing Patch System Integrated Heart Rate, Pulse Oxygen Saturation and Sweat pH Detection
         authors: G.M. Wang, H.S. Xu, S.R. Dong
-        conference: submitted
+        conference: "submitted"
 
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
