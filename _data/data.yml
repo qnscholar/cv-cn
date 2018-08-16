@@ -43,16 +43,11 @@ sidebar:
       - item: Cooking
         link:
 
-# career-profile:
-#     title: 个性标语
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-
-#       Second paragraph if required.
+career-profile:
+    title: 个性标语
+    summary: |
+      浙江大学电子工程学在读博士生，从事微纳电子器件\柔性电子\声表面波传感器研究。同时对编程\人工智能\新媒体运营有浓厚兴趣，
+      运营微信公众号“猫Q学术派”，发布个人所学所思所想。
 
 education:
     - degree: MSc in Computer Science
