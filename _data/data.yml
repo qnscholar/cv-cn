@@ -78,22 +78,14 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 研究成员
+      time: 08/2017 - 01/2018
+      company: 浙江大学
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
+        基于LiNbO3单晶薄膜的柔性声表面波（SAW）传感器
+ 
+          - 具有3000 ustrain的应变传感范围，和193 Hz/ustrain 的高灵敏度，器件稳定性好。
+          - 具有两个振动模式，可实现多参数传感和解耦，及温度补偿。
 
     - role: Senior Software Engineer
       time: 2014 - 2015
