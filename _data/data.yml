@@ -127,32 +127,32 @@ experiences:
           - 承担了硬件设计和无线传感算法开发等任务。
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: 奖励 &amp; 荣誉
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 2018
+        # link: "#hook"
+        tagline: "校级优秀团员，浙江大学"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 2016
+        # link: "#"
+        tagline: "省级优秀毕业生，安徽大学"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        # link: "#"
+        tagline: "优秀学士学位论文，安徽大学"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 2015
+        # link: "#"
+        tagline: "二等奖，全国大学生电子设计竞赛安徽赛区"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        # link: "#"
+        tagline: "学习优秀三等奖学金，安徽大学"
 
 publications:
     title: Publications
@@ -166,7 +166,7 @@ publications:
         authors: H.S. Xu, S.R. Dong, W.P. Xuan, et. al.
         conference: "Applied Physics Letters 112.9 (2018): 093502."
 
-      - title: Stretchable optical Sensing Patch System Integrated Heart Rate, Pulse Oxygen Saturation and Sweat pH Detection
+      - title: Stretchable optical Sensing Patch System Integrated Heart Rate, Pulse Oxygen Saturation and Sweat pH Detection [J]
         authors: G.M. Wang, H.S. Xu, S.R. Dong
         conference: "submitted"
 
@@ -181,6 +181,14 @@ publications:
       - title: 一种用于调整火箭发射平台倾角的控制系统及控制方法 [P]
         authors: 黄林生, 李斌, 许红升, 张香倩, 黄文江, 黄震, 张东彦, 赵晋陵
         conference: "CN104634165A,2015-05-20. "
+
+      - title: 一种基于单晶压电薄膜的体声波谐振器及其制备方法 [P]
+        authors: 董树荣，许红升, 轩伟鹏, 骆季奎, 乌玛·儒可
+        conference: "CN107342748A,2017-11-10. "
+
+      - title: 基于薄膜体声波传感器的无线无源测试系统及测试方法 [P]
+        authors: 董树荣，许红升, 轩伟鹏, 骆季奎, 乌玛·儒可
+        conference: "CN107727125A,2018-02-23."
 skills:
     title: Skills &amp; Proficiency
 
