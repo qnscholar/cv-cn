@@ -170,10 +170,17 @@ publications:
         authors: G.M. Wang, H.S. Xu, S.R. Dong
         conference: "submitted"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 电力通信网络结构优化及拓扑生成算法 [J]
+        authors: 李周, 许红升, 叶彬
+        conference: "电气自动化, 2017, 39(5):20-23."
 
+      - title: 一种用于生成SDH电力通信传输网络多层拓扑结构的算法 [P]
+        authors: 李周, 叶彬，葛斐, 荣秀婷, 徐强, 许红升
+        conference: "CN106533732A,2017-03-22. "
+
+      - title: 一种用于调整火箭发射平台倾角的控制系统及控制方法 [P]
+        authors: 黄林生, 李斌, 许红升, 张香倩, 黄文江, 黄震, 张东彦, 赵晋陵
+        conference: "CN104634165A,2015-05-20. "
 skills:
     title: Skills &amp; Proficiency
 
