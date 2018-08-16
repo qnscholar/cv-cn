@@ -216,7 +216,7 @@ projects:
 
 
 publications:
-    title: Publications
+    title: 论文 &amp; 专利
     # intro: |
     #   You can list your publications in this section. Lorem ipsum dolor sit
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -251,7 +251,7 @@ publications:
         authors: 董树荣，许红升, 轩伟鹏, 骆季奎, 乌玛·儒可
         conference: "CN107727125A,2018-02-23."
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能 &amp; 熟练程度
 
     toolset:
       - name: C
