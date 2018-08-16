@@ -164,23 +164,23 @@ projects:
 
       - title: <font color="white">2014</font>
         # link: "#"
-        tagline: "一等奖，《电磁炮》，安徽省电子设计竞赛"
+        tagline: "一等奖，安徽省电子设计竞赛"
 
       - title: <font color="white">2014</font>
         # link: "#"
-        tagline: "三等奖，《火箭发射平台倾角检测装置》，全国航空航天模型大赛科技创意组"
+        tagline: "三等奖，全国航空航天模型大赛科技创意组"
 
       - title: <font color="white">2014</font>
         # link: "#"
-        tagline: "优秀结题，《基于ARM的宿舍安全监控系统》，大学生创新创业训练项目"
+        tagline: "优秀结题，大学生创新创业训练项目"
 
       - title: <font color="white">2014</font>
         # link: "#"
-        tagline: "一等奖，安徽省第二届无线电测向竞赛144 MHz波段"
+        tagline: "一等奖，安徽省无线电测向144 MHz波段"
 
       - title: <font color="white">2014</font>
         # link: "#"
-        tagline: "团体冠军，安徽省第二届无线电测向竞赛"
+        tagline: "团体冠军，安徽省无线电测向竞赛"
 
       - title: 2013
         # link: "#"
@@ -200,7 +200,7 @@ projects:
 
       - title: <font color="white">2013</font>
         # link: "#"
-        tagline: "社会实践校级优秀团队，《寻求傩戏在社会改革时期的创新与发展》，安徽大学"
+        tagline: "社会实践校级优秀团队，安徽大学"
 
       - title: <font color="white">2013</font>
         # link: "#"
@@ -208,11 +208,11 @@ projects:
 
       - title: <font color="white">2013</font>
         # link: "#"
-        tagline: "一等奖，安徽省第一届无线电测向竞赛144 MHz波段"
+        tagline: "一等奖，安徽省无线电测向144 MHz波段"
 
       - title: <font color="white">2013</font>
         # link: "#"
-        tagline: "团体冠军，安徽省第一届无线电测向竞赛144 MHZ波段"
+        tagline: "团体冠军，安徽省无线电测向144 MHZ波段"
 
 
 publications:
