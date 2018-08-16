@@ -80,38 +80,42 @@ education:
 experiences:
     - role: 研究成员
       time: 08/2017 - 01/2018
-      company: 浙江大学
+      company: 浙江大学，杭州
       details: |
-        基于LiNbO3单晶薄膜的柔性声表面波（SAW）传感器
+        基于LiNbO3单晶薄膜的柔性声表面波（SAW）应变传感器
  
+          - 首次提出基于LiNbO3单晶薄膜的柔性SAW应变传感器。
           - 具有3000 ustrain的应变传感范围，和193 Hz/ustrain 的高灵敏度，器件稳定性好。
           - 具有两个振动模式，可实现多参数传感和解耦，及温度补偿。
+          - 利用弹性理论和微扰理论分析传感器的应变特性。
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 研究成员
+      time: 03/2018 - Present
+      company: 浙江大学，杭州
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        基于LiNbO3单晶薄膜的柔性声表面波（SAW）压强传感器
 
-          - Bullet point
-          - Bullet point
+          - 利用LiNbO3薄膜的超薄特性，提高SAW压强传感器的灵敏度。
+          - 理论计算和仿真分析不同diaphragm形状对传感器灵敏度和屈服强度的影响。
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: 研究成员
+      time: 06/2018 - Present
+      company: 浙江大学，杭州
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        基于LGS单晶薄膜的高温柔性应变传感器
 
-          - Bullet point
-          - Bullet point
+          - 利用微细加工技术，制备LGS薄膜，首次实现柔性高温SAW传感器。
+          - 应变范围广，器件结构简单。
+
+    - role: 算法工程师
+      time: 11/2015 - 06/2016
+      company: 国家电网，合肥
+      details: |
+        电力通信网络优化及拓扑生成算法
+
+          - 基于MATLAB平台，开发了电力通信网络结构优化及拓扑生成算法。
+          - 建立图论数学模型，将实际网络的物理模型转换为计算模型。
+          - 承担了方案设计、算法开发、专利及论文撰写等任务。
 
 projects:
     title: Projects
