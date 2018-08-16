@@ -142,7 +142,7 @@ projects:
         # link: "#"
         tagline: "省级优秀毕业生，安徽大学"
 
-      - title: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+      - title: <font color="white">2016</font>
         # link: "#"
         tagline: "优秀学士学位论文，安徽大学"
 
