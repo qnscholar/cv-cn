@@ -84,7 +84,7 @@ experiences:
       details: |
         基于LiNbO3单晶薄膜的柔性声表面波（SAW）应变传感器
 
-          - 首次提出基于LiNbO3单晶薄膜的柔性SAW应变传感器。
+          - 首次提出基于LiNbO<sub>3</sub>单晶薄膜的柔性SAW应变传感器。
           - 具有3000 ustrain的应变传感范围，和193 Hz/ustrain 的高灵敏度，器件稳定性好。
           - 具有两个振动模式，可实现多参数传感和解耦，及温度补偿。
           - 利用弹性理论和微扰理论分析传感器的应变特性。
@@ -93,9 +93,9 @@ experiences:
       time: 03/2018 - Present
       company: 浙江大学，杭州
       details: |
-        基于LiNbO3单晶薄膜的柔性声表面波（SAW）压强传感器
+        基于LiNbO<sub>3</sub>单晶薄膜的柔性声表面波（SAW）压强传感器
 
-          - 利用LiNbO3薄膜的超薄特性，提高SAW压强传感器的灵敏度。
+          - 利用LiNbO<sub>3</sub>薄膜的超薄特性，提高SAW压强传感器的灵敏度。
           - 理论计算和仿真分析不同diaphragm形状对传感器灵敏度和屈服强度的影响。
 
     - role: 研究成员
@@ -223,7 +223,7 @@ publications:
     #   bibendum fringilla a eu lectus.
 
     papers:
-      - title: Flexible surface acoustic wave strain sensor based on single crystalline LiNbO <sub>3</sub> thin film [J]
+      - title: Flexible surface acoustic wave strain sensor based on single crystalline LiNbO<sub>3</sub> thin film [J]
         authors: H.S. Xu, S.R. Dong, W.P. Xuan, et. al.
         conference: "Applied Physics Letters 112.9 (2018): 093502."
 
