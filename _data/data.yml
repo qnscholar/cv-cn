@@ -136,6 +136,10 @@ honors:
     assignments:
       - title: 2018
         # link: "#hook"
+        tagline: "优秀研究生，浙江大学"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
         tagline: "校级优秀团员，浙江大学"
 
       - title: 2016
