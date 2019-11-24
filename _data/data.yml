@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: 许红升
-    tagline: 博士，电子工程师
+    tagline: 电子工程在读博士生
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,8 +47,8 @@ career-profile:
     title: 个性标语
     summary: |
       浙江大学电子工程学在读博士生，从事微纳电子器件、柔性电子、声表面波传感器研究。
-      同时对编程、人工智能、新媒体运营有浓厚兴趣，运营微信公众号“猫Q学术派”，
-      记录自己的技术进阶历程。
+      运营微信公众号“青柠学术”，
+      记录自己的学习笔记。
 
 education:
     - degree: 博士学位，电子科学与技术
@@ -134,6 +134,16 @@ honors:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
+      - title: 2019
+        # link: "#hook"
+        tagline: "国家奖学金，浙江大学"
+
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "三好学生，浙江大学"
+      - title: <font color="white">2014</font>
+        # link: "#"
+        tagline: "优秀研究生，浙江大学"
       - title: 2018
         # link: "#hook"
         tagline: "优秀研究生，浙江大学"
