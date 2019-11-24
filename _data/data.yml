@@ -230,37 +230,43 @@ publications:
     #   bibendum fringilla a eu lectus.
 
     papers:
-      - title: FFlexible dual-mode surface acoustic wave strain sensor based on crystalline LiNbO3 thin film [J]
+      - title: Flexible dual-mode surface acoustic wave strain sensor based on crystalline LiNbO3 thin film [J]
         authors: H.S. Xu, Z. Cao, S.R. Dong, J.K. Chen, et. al.
         conference: "J. Micromech. Microeng. 29, 025003 (2018)."
-        
+
       - title: Flexible surface acoustic wave strain sensor based on single crystalline LiNbO<sub>3</sub> thin film [J]
         authors: H.S. Xu, S.R. Dong, W.P. Xuan, et. al.
         conference: "Applied Physics Letters 112, 093502 (2018)."
-
-      - title: Stretchable optical sensing patch system integrated heart rate, pulse oxygen saturation and sweat pH detection [J]
-        authors: G.M. Wang, H.S. Xu, S.R. Dong
-        conference: "IEEE Transactions on Biomedical Engineering, 2018"
 
       - title: 电力通信网络结构优化及拓扑生成算法 [J]
         authors: 李周, 许红升, 叶彬
         conference: "电气自动化, 2017, 39(5):20-23."
 
-      - title: 一种用于生成SDH电力通信传输网络多层拓扑结构的算法 [P]
-        authors: 李周, 叶彬，葛斐, 荣秀婷, 徐强, 许红升
-        conference: "CN106533732A,2017-03-22. "
+      - title: 基于薄膜体声波传感器的无线无源测试系统及测试方法 [P]
+        authors: 董树荣，许红升, 轩伟鹏, 骆季奎, 乌玛·儒可
+        conference: "CN107727125B, 2019-06-18, 授权"
 
       - title: 一种用于调整火箭发射平台倾角的控制系统及控制方法 [P]
         authors: 黄林生, 李斌, 许红升, 张香倩, 黄文江, 黄震, 张东彦, 赵晋陵
-        conference: "CN104634165A,2015-05-20. "
+        conference: "CN104634165A, 2016-05-11, 授权"
+
+      - title: 一种基于声表面波驱动的液体中运动的微型推进器及其制备方法 [P]
+        authors: 董树荣，赵嵩，许红升, 金浩，郭维，骆季奎
+        conference: " CN110217367A, 2019-05-13, 受理. "
+
+      - title: 一种基于声致微流的冷冻防护剂导入去除微系统和方法、及细胞的低温保存方法 [P]
+        authors: 乌玛·儒可，许红升, 董树荣，轩伟鹏，陈金凯，骆季奎
+        conference: " CN110217367A, 2019-05-13, 受理. "
 
       - title: 一种基于单晶压电薄膜的体声波谐振器及其制备方法 [P]
         authors: 董树荣，许红升, 轩伟鹏, 骆季奎, 乌玛·儒可
-        conference: "CN107342748A,2017-11-10. "
+        conference: "CN107342748A, 2017-11-10. "
 
-      - title: 基于薄膜体声波传感器的无线无源测试系统及测试方法 [P]
-        authors: 董树荣，许红升, 轩伟鹏, 骆季奎, 乌玛·儒可
-        conference: "CN107727125A,2018-02-23."
+      - title: 一种用于生成SDH电力通信传输网络多层拓扑结构的算法 [P]
+        authors: 李周, 叶彬，葛斐, 荣秀婷, 徐强, 许红升
+        conference: "CN106533732A, 2017-03-22. "
+
+
 skills:
     title: 技能 &amp; 熟练程度
 
